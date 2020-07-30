@@ -1,6 +1,6 @@
 ---
-name: "[JP] Combat bug"
-about: Combat issue that affects damage
+name: "[JP] 戦闘仕様のバグ"
+about: "ダメージなどに影響する戦闘中のバグ"
 title: ''
 labels: kind:server, lang:Japanese, type:combat
 assignees: ''

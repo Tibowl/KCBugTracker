@@ -1,6 +1,6 @@
 ---
 name: "[EN] Visual bug - both"
-about: " Visual issue that exists in both versions of the game "
+about: Visual issue that exists in both versions of the game
 title: ''
 labels: kind:server, kind:Android, kind:HTML5, lang:English, type:visual
 assignees: ''
