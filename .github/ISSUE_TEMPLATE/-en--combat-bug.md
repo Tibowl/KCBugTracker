@@ -1,20 +1,21 @@
 ---
-name: "[EN] Combat bug"
+name: "[JP] Combat bug"
 about: Combat issue that affects damage
 title: ''
-labels: kind:server, lang:English, type:combat
+labels: kind:server, lang:Japanese, type:combat
 assignees: ''
 
 ---
 
-**Description**
-A clear and concise description of what the bug is, as well as describing expected behavior.
+**説明**
+簡潔かつ明確にバグを説明してください。バグ修正後の仕様も説明してください。
 
-**Reproducing**
+**バグの再現方法**
+バグを再現するために、必要な手順を説明してください：（存在しない場合は削除しても良い）
 Steps to reproduce the behavior: (if applicable, otherwise remove this section)
-1. Sortie '...' with '...' equipped to '...'
-2. Repeat until '...'
-3. See bug
+1. '...'で'...'をソートする、'...'に装備する
+2. '...'まで繰り返す
+3. バグの再現
 
-**Screenshot and/or video**
-If applicable, add screenshots to help explain your problem.
+**スクリーンショット及び動画**
+存在すればアップロードしてください。バグの修正に助かります。
