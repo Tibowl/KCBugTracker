@@ -4,7 +4,6 @@ Community run bug tracker for KanColle. Intended to keep track of which bugs are
 日本語OKです。
 
 ## Issue formatting
-***Note**: This is still up for discussion. If there are problems/changes wanted, contact me or make an issue with the meta label.*  
 To keep the issues somewhat consistent, templates are provided when creating one. In general:
 - Titles: if available use `Japanese title | English title`, if only one is available then just use `(Japanse or English) Title`
 - Content
@@ -12,10 +11,12 @@ To keep the issues somewhat consistent, templates are provided when creating one
   - For each available language the general order should be:
     - (Short) description that extends the title.
     - For visual issues, screenshot or video would be handy.
-    - (If available) steps to reproduce the issue or test the.
-    - For combat/formula issues, the expected result and the current result (showing formulas).
+    - (If available) steps to reproduce the issue or test the existing formula.
+    - For combat/formula issues, the expected result and the current result (with screenshots?).
     - (If available) client code that's causing issue and a fix - doesn't need to be available in both languages, can go at end.
   - While linking to Twitter is OK and it's encouraged to link sources, the contents should be copied/archived as well in case the tweet gets deleted on a later date. 
+
+***Note**: This is still up for discussion. If there are problems/changes wanted, contact me or make an issue with the meta label.*  
 
 ## Contributing issues
 ### New issues
