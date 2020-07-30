@@ -2,7 +2,7 @@
 name: "[JP] HTML5版の表示バグ"
 about: "HTML5版における画面・動画表示のバグ"
 title: ''
-labels: HTML5, Japanese, visual
+labels: 1:visual, 2:HTML5, 3:English
 assignees: ''
 
 ---

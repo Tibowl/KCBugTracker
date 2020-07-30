@@ -2,7 +2,7 @@
 name: "[EN] Visual bug - both"
 about: Visual issue that exists in both versions of the game
 title: ''
-labels: server, Android, HTML5, English, visual
+labels: 1:visual, 2:Android, 2:HTML5, 2:server, 3:English
 assignees: ''
 
 ---

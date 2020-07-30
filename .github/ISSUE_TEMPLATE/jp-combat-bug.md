@@ -2,7 +2,7 @@
 name: "[JP] 戦闘仕様のバグ"
 about: "ダメージなどに影響する戦闘中のバグ"
 title: ''
-labels: server, Japanese, combat
+labels: 1:combat, 2:server, 3:English
 assignees: ''
 
 ---

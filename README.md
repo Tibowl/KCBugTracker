@@ -31,7 +31,7 @@ You can use [Google Translate](https://translate.google.com/) and/or [DeepL Tran
 Issues can be created via the [New Issue](https://github.com/Tibowl/KCBugTracker/issues/new/choose) button. Several templates will be available to choose from that will fill in some labels and do some formatting. This can also be done manually if wanted.  
 
 ### Translating  
-Some issues might not be available in both English and Japanese. You can search for open issues that aren't available in [Japanese](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3AJapanese) or for ones that aren't available in [English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3AEnglish)  
+Some issues might not be available in both English and Japanese. You can search for open issues that aren't available in [Japanese](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3A3%3AJapanese) or for ones that aren't available in [English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3A3%3AEnglish)  
 If you do not have the rights to edit the main message, you may add your translations in the comments. If you do have permissions, please put your translation in there.
 
 ## References
@@ -64,7 +64,7 @@ External pages that might list more bugs
 
 
 ### 翻訳
-英語と日本語と同時に記述されていないイシューがあります。[日本語](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3AJapanese)か[English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3AEnglish)で記述されていないイシューが検索できます。
+英語と日本語と同時に記述されていないイシューがあります。[日本語](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3A3%3AJapanese)か[English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3A3%3AEnglish)で記述されていないイシューが検索できます。
   
 本文の修正をする権限がない場合、コメントに翻訳文を提出すると助かります。権限と許可をもっていれば、本文に翻訳文を添付してください。
 

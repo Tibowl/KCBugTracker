@@ -2,7 +2,7 @@
 name: "[JP] 両環境の表示バグ"
 about: "HTML5版とAndroid版両環境における画面・動画表示のバグ"
 title: ''
-labels: server, Android, HTML5, English, visual
+labels: 1:visual, 2:Android, 2:HTML5, 2:server, 3:English
 assignees: ''
 
 ---

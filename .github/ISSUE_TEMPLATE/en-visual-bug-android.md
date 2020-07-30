@@ -2,7 +2,7 @@
 name: "[EN] Visual bug - Android"
 about: Visual issue that exists in the android version of the game
 title: ''
-labels: Android, English, visual
+labels: 1:visual, 2:Android, 3:English
 assignees: ''
 
 ---
