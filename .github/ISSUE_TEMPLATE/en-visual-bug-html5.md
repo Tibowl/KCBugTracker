@@ -2,7 +2,7 @@
 name: "[EN] Visual bug - HTML5"
 about: Visual issue that exists in the HTML5 version of the game
 title: ''
-labels: kind:HTML5, lang:English, type:visual
+labels: HTML5, English, visual
 assignees: ''
 
 ---

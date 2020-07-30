@@ -2,7 +2,7 @@
 name: "[EN] Combat bug"
 about: Combat issue that affects damage
 title: ''
-labels: kind:server, lang:English, type:combat
+labels: server, English, combat
 assignees: ''
 
 ---

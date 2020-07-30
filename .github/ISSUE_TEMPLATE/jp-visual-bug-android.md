@@ -2,7 +2,7 @@
 name: "[JP] Android版の表示バグ"
 about: "Android版における画面・動画表示のバグ"
 title: ''
-labels: kind:Android, lang:English, type:visual
+labels: Android, English, visual
 assignees: ''
 
 ---
