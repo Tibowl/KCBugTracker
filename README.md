@@ -4,6 +4,7 @@ Community run bug tracker for KanColle. Intended to keep track of which bugs are
 
 既存の艦これのバグを探すコミュニティです。コミュニティの国際化と多様性を保つため、複数の言語で記述されないイシューが存在します。
 
+### Index  
 [1. English](#English)  
 [2. 日本語](#日本語)
 
