@@ -12,7 +12,6 @@ assignees: ''
 
 **バグの再現方法**
 バグを再現するために、必要な手順を説明してください：（存在しない場合は削除しても良い）
-Steps to reproduce the behavior: (if applicable, otherwise remove this section)
 1. '...'で'...'をソートする、'...'に装備する
 2. '...'まで繰り返す
 3. バグの再現
