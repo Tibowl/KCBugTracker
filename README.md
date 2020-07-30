@@ -1,8 +1,43 @@
+
 # KCBugTracker
+Community run bug tracker for KanColle. Intended to keep track of which bugs are still active. While trying to be bilingual, some issues might not be available in both languages.
+
 既存の艦これのバグを探すコミュニティです。コミュニティの国際化と多様性を保つため、複数の言語で記述されないイシューが存在します。
 
-日本語OKです。
+[1. English](#English)  
+[2. 日本語](#日本語)
 
+# English
+## Issue formatting
+To keep the issues somewhat consistent, templates are provided when creating one. In general:
+- Titles: if available use `Japanese title | English title`, if only one is available then just use `(Japanse or English) Title`
+- Content
+  - If available, put Japanese content on top, followed by English content. If one isn't available there's no need to keep the titles for that language.
+  - For each available language the general order should be:
+    - (Short) description that extends the title.
+    - For visual issues, screenshot or video would be handy.
+    - (If available) steps to reproduce the issue or test the existing formula.
+    - For combat/formula issues, the expected result and the current result (with screenshots?).
+    - (If available) client code that's causing issue and a fix - doesn't need to be available in both languages, can go at end.
+  - While linking to Twitter is OK and it's encouraged to link sources, the contents should be copied/archived as well in case the tweet gets deleted on a later date. 
+
+***Note**: This is still up for discussion. If there are problems/changes wanted, contact me or make an issue with the meta label.* 
+
+## Contributing issues
+### New issues
+All issues will be posted in the [issues tab](https://github.com/Tibowl/KCBugTracker/issues). First check if an issue already exists before making one. Filtering by tags might help.  
+You can use [Google Translate](https://translate.google.com/) and/or [DeepL Translate](https://www.deepl.com/translator) for own reference when looking for duplicates, using a mixture should give a decent idea what it's about (please do not post machine translations).  
+Issues can be created via the [New Issue](https://github.com/Tibowl/KCBugTracker/issues/new/choose) button. Several templates will be available to choose from that will fill in some labels and do some formatting. This can also be done manually if wanted.  
+
+### Translating  
+Some issues might not be available in both English and Japanese. You can search for open issues that aren't available in [Japanese](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3AJapanese) or for ones that aren't available in [English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3AEnglish)  
+If you do not have the rights to edit the main message, you may add your translations in the comments. If you do have permissions, please put your translation in there.
+
+## References
+External pages that might list more bugs
+- [Existing Game Bugs | KanColle Wiki | Fandom](https://kancolle.fandom.com/wiki/Existing_Game_Bugs)
+
+# 日本語
 ## イシューのフォーマット
 イシューの一貫性を維持するため、テンプレートは提供されています。一般的に：
 - タイトル：両言語で説明する場合は`Japanese title | English title`、日本語か英語だけで説明する場合は `(Japanse or English) Title`を使ってください。
@@ -28,15 +63,12 @@
 
 
 ### 翻訳
-英語と日本語と同時に記述されていないイシューがあります。[日本語](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3A%E6%97%A5%E6%9C%AC%E8%AA%9E)か[English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3AEnglish)で記述されていないイシューが検索できます。
+英語と日本語と同時に記述されていないイシューがあります。[日本語](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3AJapanese)か[English](https://github.com/Tibowl/KCBugTracker/issues?q=is%3Aopen+-label%3Alang%3AEnglish)で記述されていないイシューが検索できます。
   
 本文の修正をする権限がない場合、コメントに翻訳文を提出すると助かります。権限と許可をもっていれば、本文に翻訳文を添付してください。
 
-**注意**: このREADMEと[イシューテンプレート](https://github.com/Tibowl/KCBugTracker/tree/master/.github/ISSUE_TEMPLATE)は日本語に翻訳されていない内容があるかもしれません。こちらの内容は優先的に翻訳されるべきですが、ご自分の好みで翻訳しても構いません。
-
 ## 参考
 他のバグを羅列する外部ページ
-External pages that might list more bugs
 - [Existing Game Bugs | KanColle Wiki | Fandom](https://kancolle.fandom.com/wiki/Existing_Game_Bugs)
 
 
