@@ -37,6 +37,7 @@ If you do not have the rights to edit the main message, you may add your transla
 ## References
 External pages that might list more bugs
 - [Existing Game Bugs | KanColle Wiki | Fandom](https://kancolle.fandom.com/wiki/Existing_Game_Bugs)
+- [練習ページ/30 | wikiwiki](https://wikiwiki.jp/kancolle/%E7%B7%B4%E7%BF%92%E3%83%9A%E3%83%BC%E3%82%B8/30)
 
 # 日本語
 ## イシューのフォーマット
@@ -71,5 +72,6 @@ External pages that might list more bugs
 ## 参考
 他のバグを羅列する外部ページ
 - [Existing Game Bugs | KanColle Wiki | Fandom](https://kancolle.fandom.com/wiki/Existing_Game_Bugs)
+- [練習ページ/30 | wikiwiki](https://wikiwiki.jp/kancolle/%E7%B7%B4%E7%BF%92%E3%83%9A%E3%83%BC%E3%82%B8/30)
 
 
