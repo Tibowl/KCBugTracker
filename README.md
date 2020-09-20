@@ -11,7 +11,7 @@ Community run bug tracker for KanColle. Intended to keep track of which bugs are
 # English
 ## Issue formatting
 To keep the issues somewhat consistent, templates are provided when creating one. In general:
-- Titles: if available use `Japanese title | English title`, if only one is available then just use `(Japanse or English) Title`
+- Titles: if available use `Japanese title | English title`, if only one is available then just use `(Japanese or English) Title`
 - Content
   - If available, put Japanese content on top, followed by English content. If one isn't available there's no need to keep the titles for that language.
   - For each available language the general order should be:
@@ -42,7 +42,7 @@ External pages that might list more bugs
 # 日本語
 ## イシューのフォーマット
 イシューの一貫性を維持するため、テンプレートは提供されています。一般的に：
-- タイトル：両言語で説明する場合は`Japanese title | English title`、日本語か英語だけで説明する場合は `(Japanse or English) Title`を使ってください。
+- タイトル：両言語で説明する場合は`Japanese title | English title`、日本語か英語だけで説明する場合は `(Japanese or English) Title`を使ってください。
 - 内容
   - 可能であれば、最初は日本語で説明し、引き続き英語で説明してください。日本語か英語だけで説明する場合は、その言語だけでタイトルを作れば良いです。
   - 各言語の内容は下記のルールに注意してください：
